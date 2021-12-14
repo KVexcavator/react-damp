@@ -1,0 +1,5 @@
+см code/React-patterns/recipes-app
+здесь слорная солянка
+сщбрать
+npm run build
+файл ./dist/index.html зопустиь серуером из vscode
