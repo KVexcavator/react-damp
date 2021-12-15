@@ -1,5 +1,5 @@
 см code/React-patterns/recipes-app
-здесь слорная солянка
+здесь сборная солянка
 сщбрать
 npm run build
-файл ./dist/index.html зопустиь серуером из vscode
+файл ./dist/index.html запустиь сервером из vscode
